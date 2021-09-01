@@ -4,6 +4,6 @@ good afternoon
 good evening
 good night
 tomorrow
-good 
+good b
 good afternoon
 good evening
